@@ -1,0 +1,15 @@
+void List(char *,char *);
+void touch_();
+void pwd_();
+void makedir_();
+void exit_();
+void chadir_();
+void list_();
+void copy_();
+void find_();
+void error_();
+void whoami_();
+void remove_();
+int remove_dir(const char *);
+void date();
+void clear();
